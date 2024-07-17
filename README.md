@@ -7,12 +7,12 @@ A FTP client package for Go
 ## Install
 
 ```
-go get -u github.com/gzdzh/dzh-ftp
+go get -u github.com/gzdzh-cn/dzh-ftp
 ```
 
 ## Documentation
 
-https://pkg.go.dev/github.com/gzdzh/dzh-ftp
+https://pkg.go.dev/github.com/gzdzh-cn/dzh-ftp
 
 ## Example
 

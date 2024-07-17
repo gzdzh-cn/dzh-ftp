@@ -1,4 +1,4 @@
-module github.com/gzdzh/dzh-ftp
+module github.com/gzdzh-cn/dzh-ftp
 
 go 1.21.8
 
